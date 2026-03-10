@@ -129,25 +129,6 @@ Based on the analysis:
 
 -->Implement personalized music recommendations
 
-📂 Project Structure
-itunes-analysis-project
-│
-├── dataset
-│   ├── artist.csv
-│   ├── album.csv
-│   ├── track.csv
-│   ├── genre.csv
-│   ├── invoice.csv
-│   ├── invoice_line.csv
-│
-├── sql
-│   ├── itunes_analysis.sql
-│
-├── report
-│   ├── itunes_analysis_report.pdf
-│
-└── README.md
-
 📊 Future Enhancements
 
 Possible improvements:
